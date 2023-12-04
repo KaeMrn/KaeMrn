@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kawther-merain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawther merain" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kawther-merain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawther merain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kawther-merain" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/internet_2721725?term=website&page=1&position=36&origin=search&related_id=2721725" alt="kawther merain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
