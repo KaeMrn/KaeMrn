@@ -34,6 +34,5 @@ I specialize in building scalable, high-performance web applications. My backgro
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/kawther-merain](https://linkedin.com/in/kawther-merain)
 - **Email:** merain.kawther@gmail.com
-- **Portfolio:** *[Link to your portfolio if you have one, otherwise delete this line]*
 
 ---
