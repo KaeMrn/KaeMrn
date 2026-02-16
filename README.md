@@ -20,14 +20,14 @@ I specialize in building scalable, high-performance web applications. My backgro
 
 ### 🚀 Key Projects
 
-#### [Crypto Viz](https://github.com/KaeMrn/crypto-viz)
+#### [Crypto Viz](https://github.com/KaeMrn/Crypto-Viz)
 *Architecting a Big Data application for real-time cryptocurrency analysis using the Producer/Consumer paradigm.*
 
 #### [Stocks](https://github.com/KaeMrn/stocks-bi)
 *A Business Intelligence platform for retail inventory management with a focus on data insights and React performance.*
 
-#### [E-Commerce Platform](https://github.com/KaeMrn/ecommerce-stripe)
-*A full-scale online store focused on secure transactions and Stripe API compliance.*
+#### [Travel Order Resolver](https://github.com/KaeMrn/travel-order-resolver)
+*NLP tool converting text commands into optimized train itineraries using Transformers and Neo4j.*
 
 ---
 
